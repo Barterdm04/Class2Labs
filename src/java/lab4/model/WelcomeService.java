@@ -6,9 +6,6 @@
 package lab4.model;
 
 import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
-
-
 /**
  *
  * @author dbarter1
